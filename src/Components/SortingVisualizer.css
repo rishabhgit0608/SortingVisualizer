@@ -1,0 +1,13 @@
+.container {
+  position: absolute;
+  left: 16vw;
+  top: 3vh;
+}
+
+.array-bars {
+  background-color: turquoise;
+  display: inline-block;
+  margin: 0 1px;
+  width: 2px;
+  margin-bottom: 1vh;
+}
